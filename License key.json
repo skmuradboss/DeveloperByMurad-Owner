@@ -1,7 +1,8 @@
 {
     "version": "1.0",
-    "update_msg": "Buy New Update Tools For Contact By Owner Developer Murad",
-    "keys": [
-        "MURAD-KEY-F228F35964"
-    ]
+    "update_msg": "Admin Update",
+    "keys": {
+        "MURAD-KEY-F228F35964": "No Date|No Name|No Tele",
+        "MURAD-KEY-61659228978502": "2026-02-18 17:06:37|FB MASTER MURAD|@FBMASTERMURAD"
+    }
 }
